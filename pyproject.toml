@@ -1,4 +1,0 @@
-[dependency-groups]
-dev = [
-    "torch>=2.12.1",
-]
